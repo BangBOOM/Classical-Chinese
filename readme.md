@@ -2,7 +2,7 @@
 
 按句分行（按照中文句号分号感叹号问号划分）。
 
-![](https://figure-bed-y.oss-cn-beijing.aliyuncs.com/img/20210106143739.png)
+![](sample.png)
 
 ## 合计
 
