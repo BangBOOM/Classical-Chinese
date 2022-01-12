@@ -114,3 +114,6 @@
 冰鉴|120
 
 *（此部分数据量不完全准确）*
+
+## 项目信息
+项目源自https://github.com/NiuTrans/Classical-Modern
